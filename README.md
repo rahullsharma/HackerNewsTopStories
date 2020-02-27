@@ -3,6 +3,9 @@
 # The Challenge
 Your goal is to create a basic iOS application that lists Hacker News posts. Each post should contain the name of the article, the url of the story, the number of “likes” or “points”, and the author. When the user taps on a post the URL attached to the post should open in a basic web view
 
+# Dependencies 
+- SnapKit
+- Quick/Nimble
 # Screenshots
 <img width="382" alt="Screen Shot 2020-02-27 at 12 41 10 AM" src="https://user-images.githubusercontent.com/16582681/75418137-b6cd4780-5900-11ea-933c-b3a1ffbb872a.png">
 <img width="378" alt="Screen Shot 2020-02-27 at 12 51 01 AM" src="https://user-images.githubusercontent.com/16582681/75418142-b7fe7480-5900-11ea-8b60-71c027d3fac1.png">
